@@ -6,11 +6,11 @@
 			<group>4each.co.uk</group>
 			<sysinfourl>http://aether.4each.co.uk/phpsysinfo/xml.php</sysinfourl>
 		</host>
-		<host>
+		<!--<host>
 			<name>Chaos</name>
 			<group>4each.co.uk</group>
-			<sysinfourl>http://chaos.4each.co.uk/phpsysinfo/?template=xml</sysinfourl>
-		</host>
+			<sysinfourl>http://chaos.4each.co.uk/phpsysinfo/?template=xml</sysinfourl> Need to work out some way of encoding URL as urllib can't use URL with paramaters just in the URL need to be passed differntly 
+		</host>-->
 		<host>
 			<name>Chronos</name>
 			<group>4each.co.uk</group>

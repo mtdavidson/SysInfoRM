@@ -1,0 +1,11 @@
+SysInfoRM or System Information Remote Monitor
+----------------------------------------------
+
+Initial Planned Features for SysInfoRM
+
+    * Parsing of 1-n XML from either phpSysInfo or pySysInfo (Since it can supply data in same XML format and should be good for remote monitoring of non web hosts).
+    * Ability to define monitoring rules and actions for when they are matched.
+    * Easy / Understandable Configuration.
+    * Heart Beat Monitoring of Script Itself. Basically run the script in two locations if the Primary fails the other should take over the monitoring.
+    * Can be run as a Daemon or as interactive script.
+
