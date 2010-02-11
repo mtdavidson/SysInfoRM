@@ -1,20 +1,23 @@
 <?xml version="1.0"?>
 <SysInfoRM>
-<Hosts>
-	<host>
-		<name>Aether</name>
-		<group>4each.co.uk</group>
-		<sysinfourl>http://aether.4each.co.uk/phpsysinfo/xml.php</sysinfourl>
-	</host>
-	<host>
-		<name>Chaos</name>
-		<group>4each.co.uk</group>
-		<sysinfourl>http://chaos.4each.co.uk/phpsysinfo/?template=xml</sysinfourl>
-	</host>
-	<host>
-		<name>Chronos</name>
-		<group>4each.co.uk</group>
-		<sysinfourl>http://chronos.4each.co.uk/phpsysinfo/xml.php</sysinfourl>
-	</host>
-</Hosts>
+	<Hosts>
+		<host>
+			<name>Aether</name>
+			<group>4each.co.uk</group>
+			<sysinfourl>http://aether.4each.co.uk/phpsysinfo/xml.php</sysinfourl>
+		</host>
+		<host>
+			<name>Chaos</name>
+			<group>4each.co.uk</group>
+			<sysinfourl>http://chaos.4each.co.uk/phpsysinfo/?template=xml</sysinfourl>
+		</host>
+		<host>
+			<name>Chronos</name>
+			<group>4each.co.uk</group>
+			<sysinfourl>http://chronos.4each.co.uk/phpsysinfo/xml.php</sysinfourl>
+		</host>
+	</Hosts>
+	<Config>
+		<UserAgent>SysInfoRM</UserAgent>
+	</Config>
 </SysInfoRM>
