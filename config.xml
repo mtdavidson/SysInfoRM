@@ -11,5 +11,10 @@
 		<group>4each.co.uk</group>
 		<sysinfourl>http://chaos.4each.co.uk/phpsysinfo/?template=xml</sysinfourl>
 	</host>
+	<host>
+		<name>Chronos</name>
+		<group>4each.co.uk</group>
+		<sysinfourl>http://chronos.4each.co.uk/phpsysinfo/xml.php</sysinfourl>
+	</host>
 </Hosts>
 </SysInfoRM>
