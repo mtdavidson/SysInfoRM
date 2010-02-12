@@ -1,6 +1,12 @@
 <?xml version="1.0"?>
 <todo version="0.1.20">
+    <note priority="medium" time="1265985802" done="1265985836">
+        Add pre-commit hook to update TOOD file from .todo database
+    </note>
     <note priority="veryhigh" time="1265983586">
         Add Rules to Config.xml
+    </note>
+    <note priority="medium" time="1265986317">
+        Find correct method to enforce generation of TODO before commit and inclusion of the file in the commit. 
     </note>
 </todo>
