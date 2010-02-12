@@ -1,3 +1,6 @@
 - Add Rules to Config.xml
   (added Fri Feb 12 14:06:26 2010, incomplete, priority veryhigh)
 
+- Add pre-commit hook to update TOOD file from .todo database
+  (added Fri Feb 12 14:43:22 2010, incomplete, priority medium)
+
