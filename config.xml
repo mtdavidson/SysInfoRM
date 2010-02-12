@@ -5,6 +5,12 @@
 			<name>Aether</name>
 			<group>4each.co.uk</group>
 			<sysinfourl>http://aether.4each.co.uk/phpsysinfo/xml.php</sysinfourl>
+			<Rules>
+				<rule alertInterval="600">
+					<condition></condition><!-- Condition should be presented using Xpath Syntax -->
+					<action emailTo="mark@4each.co.uk">sendEmail</action>
+				</rule>
+			</Rules>
 		</host>
 		<!--<host>
 			<name>Chaos</name>
@@ -18,6 +24,7 @@
 		</host>
 	</Hosts>
 	<Config>
+		<DefaultEmail>mark@4each.co.uk</DefaultEmail>
 		<UserAgent>SysInfoRM</UserAgent>
 	</Config>
 </SysInfoRM>
